@@ -23,12 +23,15 @@ Most of of this is built from and remixed from these following sources:
 
 I think you should be able to just flip the header pin pieces that come with the adafruit gps logger so that the small side goes down into the arduino uno and the long bits come up through the bottom of the GPS logger - then you can add the female connectors onto the top of the gps logger.
 
+![](assets/images/setup-dw.png) via data walking project - you see how those female headers are available? that's what we want :) 
+
 ### add the header pins to connect the gps to the arduino uno. Make sure to have long pins so that you can add female connectors to the top of the GPS logger later on
 
 ![](assets/images/setup-03.JPG)
 ![](assets/images/setup-04.JPG)
 
 ### Make sure the long pins are sticking out of the top of the gps logger so you can add female connectors to the top of the GPS logger later on
+![](assets/images/setup-dw.png) via data walking project - you see how those female headers are available? that's what we want :) 
 
 ![](assets/images/setup-05.JPG)
 
